@@ -14690,3 +14690,6 @@ input[type="radio"] + label:hover:before{
   font-size: 18px !important;
   line-height: 23px !important;
 }
+.DZ-bt-buy-now{
+    display: none !important;
+}
