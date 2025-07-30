@@ -14693,3 +14693,6 @@ input[type="radio"] + label:hover:before{
 .DZ-bt-buy-now{
     display: none !important;
 }
+.DZ-bt-support-now{
+    display: none !important;
+}
