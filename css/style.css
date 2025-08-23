@@ -10107,6 +10107,9 @@ ul[class*="list-"]{
         margin-left: 15px;
         margin-right: 15px;
     }
+    .resp-tab{
+        margin-top: 35% !important;
+    }
 }
 /*== >Social icons ===*/
 /* social icon default */
