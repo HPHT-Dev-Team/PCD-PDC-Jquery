@@ -10107,6 +10107,9 @@ ul[class*="list-"]{
         margin-left: 15px;
         margin-right: 15px;
     }
+    .resp-tab{
+        margin-top: 35% !important;
+    }
 }
 /*== >Social icons ===*/
 /* social icon default */
@@ -14011,7 +14014,7 @@ ol.commentlist li .star-rating {
 }
 /* Our Story */
 .our-story > span{
-    color: #fdb400 !important;
+    color: #000 !important;
     font-size: 28px;
     display: block;
     margin-bottom: 10px;
@@ -14026,6 +14029,9 @@ ol.commentlist li .star-rating {
     line-height: 70px;
     font-weight: 400;
     margin-bottom: 20px;
+}
+.tp-caption{
+    background: none !important;
 }
 .our-story h2.title span{
     font-family: 'Playfair Display', serif;
@@ -14603,14 +14609,17 @@ input[type="radio"] + label:hover:before{
     display: ruby-text !important;
 }
 .spec_txt2{
-    color: #fbd400;
+    color: #000;
     font-size: 34px;
 }
 .spec_txt3{
-    color: #fdb400;
+    color: #000;
     font-size: 25px;
     text-align: left;
     margin: 5px 0px;
+}
+.mt-10{
+    margin-top: 80px;
 }
 .w-75{
     width: 75% !important;
@@ -14621,7 +14630,7 @@ input[type="radio"] + label:hover:before{
     margin-left: 10px;
 }
 .spec_txt4{
-    color: #ff5e14;
+    color: #000;
     font-size: 20px;
     text-align: left;
 }
@@ -14653,10 +14662,10 @@ input[type="radio"] + label:hover:before{
 .card_style{
     border: 2px solid #fdb400;
 }
-#home .rev_slider_wrapper {
+/* #home .rev_slider_wrapper {
     height: 50vh !important;
     max-height: 50vh !important;
-}
+} */
 
 #home .rev-slidebg {
     width: 100%;
@@ -14676,11 +14685,12 @@ input[type="radio"] + label:hover:before{
     }
 }
 .default-banner{
-    height: 350px;
+    height: 700px;
 }
 .spl_txt{
-    color: #fdb400;
-    text-align: center;
+       color: #000;
+    text-align: start;
+    font-weight: bold;
 }
 .dzsale {
     padding: 5px 20px;

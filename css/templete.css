@@ -2109,9 +2109,9 @@ HOME 5 Box Header
 .box-header.header-transparent .main-bar{
 	border:0;
 }
-.box-header.site-header .main-bar .container{
+/* .box-header.site-header .main-bar .container{
 	background: #fff;
-}
+} */
 .box-header.header-transparent .header-nav .nav > li > a, 
 .box-header.header-transparent .extra-nav .site-button-link, 
 .box-header.header-transparent .navbar-toggler{
